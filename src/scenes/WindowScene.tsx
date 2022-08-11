@@ -1,6 +1,6 @@
 import React from 'react'
 import Window from '../components/Window'
-import SkyImage from '../media/sky.jpg'
+import SkyImage from '../media/computer.jpg'
 import styled from 'styled-components';
 import { Scene } from 'react-scrollmagic';
 import color from '../constants/colors';
